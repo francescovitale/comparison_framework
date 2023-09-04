@@ -1,0 +1,8 @@
+Accuracy = 0.62
+Precision = 0.75
+Recall = 0.36
+F1 = 0.48648648648648657
+TP = 72
+TN = 176
+FP = 24
+FN = 128

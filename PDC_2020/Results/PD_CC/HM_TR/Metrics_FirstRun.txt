@@ -1,0 +1,4 @@
+Mean accuracy = 0.5675
+Mean precision = 0.5699481865284974
+Mean recall = 0.55
+Mean f1 = 0.5597964376590332
